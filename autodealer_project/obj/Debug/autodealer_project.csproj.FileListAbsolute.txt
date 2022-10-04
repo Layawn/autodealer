@@ -1,0 +1,118 @@
+F:\visual studio 2013\Projects\autodealer_project\autodealer_project\bin\Debug\autodealer_project.exe.config
+F:\visual studio 2013\Projects\autodealer_project\autodealer_project\obj\Debug\autodealer_project.csprojResolveAssemblyReference.cache
+F:\visual studio 2013\Projects\autodealer_project\autodealer_project\obj\Debug\autodealer_project.main_form.resources
+F:\visual studio 2013\Projects\autodealer_project\autodealer_project\obj\Debug\autodealer_project.Properties.Resources.resources
+F:\visual studio 2013\Projects\autodealer_project\autodealer_project\obj\Debug\autodealer_project.csproj.GenerateResource.Cache
+F:\visual studio 2013\Projects\autodealer_project\autodealer_project\bin\Debug\autodealer_project.exe
+F:\visual studio 2013\Projects\autodealer_project\autodealer_project\bin\Debug\autodealer_project.pdb
+F:\visual studio 2013\Projects\autodealer_project\autodealer_project\obj\Debug\autodealer_project.exe
+F:\visual studio 2013\Projects\autodealer_project\autodealer_project\obj\Debug\autodealer_project.pdb
+F:\visual studio 2013\Projects\autodealer_project\autodealer_project\obj\Debug\autodealer_project.auto_form.resources
+F:\visual studio 2013\Projects\autodealer_project\autodealer_project\obj\Debug\autodealer_project.Add_edit_auto.resources
+F:\visual studio 2013\Projects\autodealer_project\autodealer_project\obj\Debug\autodealer_project.products_form.resources
+F:\visual studio 2013\Projects\autodealer_project\autodealer_project\obj\Debug\autodealer_project.Add_edit_product.resources
+F:\visual studio 2013\Projects\autodealer_project\autodealer_project\obj\Debug\autodealer_project.service_form.resources
+F:\visual studio 2013\Projects\autodealer_project\autodealer_project\obj\Debug\autodealer_project.cashier_form.resources
+F:\visual studio 2013\Projects\autodealer_project\autodealer_project\obj\Debug\autodealer_project.Add_edit_cashier.resources
+F:\visual studio 2013\Projects\autodealer_project\autodealer_project\obj\Debug\autodealer_project.Add_edit_service.resources
+F:\visual studio 2013\Projects\autodealer_project\autodealer_project\obj\Debug\autodealer_project.product_sale_form.resources
+F:\visual studio 2013\Projects\autodealer_project\autodealer_project\obj\Debug\autodealer_project.service_sale_form.resources
+F:\visual studio 2013\Projects\autodealer_project\autodealer_project\obj\Debug\autodealer_project.Add_edit_position_product.resources
+F:\visual studio 2013\Projects\autodealer_project\autodealer_project\obj\Debug\autodealer_project.Add_edit_position_service.resources
+G:\Информатика и программирование 2\С#\autodealer_project\autodealer_project\bin\Debug\autodealer_project.exe.config
+G:\Информатика и программирование 2\С#\autodealer_project\autodealer_project\obj\Debug\autodealer_project.exe
+G:\Информатика и программирование 2\С#\autodealer_project\autodealer_project\obj\Debug\autodealer_project.pdb
+G:\Информатика и программирование 2\С#\autodealer_project\autodealer_project\bin\Debug\autodealer_project.exe
+G:\Информатика и программирование 2\С#\autodealer_project\autodealer_project\bin\Debug\autodealer_project.pdb
+G:\Информатика и программирование 2\С#\autodealer_project\autodealer_project\obj\Debug\autodealer_project.csprojResolveAssemblyReference.cache
+G:\Информатика и программирование 2\С#\autodealer_project\autodealer_project\obj\Debug\autodealer_project.Add_edit_auto.resources
+G:\Информатика и программирование 2\С#\autodealer_project\autodealer_project\obj\Debug\autodealer_project.Add_edit_cashier.resources
+G:\Информатика и программирование 2\С#\autodealer_project\autodealer_project\obj\Debug\autodealer_project.Add_edit_position_product.resources
+G:\Информатика и программирование 2\С#\autodealer_project\autodealer_project\obj\Debug\autodealer_project.Add_edit_position_service.resources
+G:\Информатика и программирование 2\С#\autodealer_project\autodealer_project\obj\Debug\autodealer_project.Add_edit_product.resources
+G:\Информатика и программирование 2\С#\autodealer_project\autodealer_project\obj\Debug\autodealer_project.Add_edit_service.resources
+G:\Информатика и программирование 2\С#\autodealer_project\autodealer_project\obj\Debug\autodealer_project.auto_form.resources
+G:\Информатика и программирование 2\С#\autodealer_project\autodealer_project\obj\Debug\autodealer_project.cashier_form.resources
+G:\Информатика и программирование 2\С#\autodealer_project\autodealer_project\obj\Debug\autodealer_project.main_form.resources
+G:\Информатика и программирование 2\С#\autodealer_project\autodealer_project\obj\Debug\autodealer_project.products_form.resources
+G:\Информатика и программирование 2\С#\autodealer_project\autodealer_project\obj\Debug\autodealer_project.product_sale_form.resources
+G:\Информатика и программирование 2\С#\autodealer_project\autodealer_project\obj\Debug\autodealer_project.Properties.Resources.resources
+G:\Информатика и программирование 2\С#\autodealer_project\autodealer_project\obj\Debug\autodealer_project.service_form.resources
+G:\Информатика и программирование 2\С#\autodealer_project\autodealer_project\obj\Debug\autodealer_project.service_sale_form.resources
+G:\Информатика и программирование 2\С#\autodealer_project\autodealer_project\obj\Debug\autodealer_project.csproj.GenerateResource.Cache
+G:\Информатика и программирование 2\С#\autodealer_project\autodealer_project\obj\Debug\autodealer_project.auto_sale_form.resources
+C:\Users\Cluser\Desktop\autodealer_project\autodealer_project\bin\Debug\autodealer_project.exe.config
+C:\Users\Cluser\Desktop\autodealer_project\autodealer_project\obj\Debug\autodealer_project.exe
+C:\Users\Cluser\Desktop\autodealer_project\autodealer_project\obj\Debug\autodealer_project.pdb
+C:\Users\Cluser\Desktop\autodealer_project\autodealer_project\bin\Debug\autodealer_project.exe
+C:\Users\Cluser\Desktop\autodealer_project\autodealer_project\bin\Debug\autodealer_project.pdb
+C:\Users\Cluser\Desktop\autodealer_project\autodealer_project\obj\Debug\autodealer_project.csprojResolveAssemblyReference.cache
+C:\Users\Cluser\Desktop\autodealer_project\autodealer_project\obj\Debug\autodealer_project.Add_edit_auto.resources
+C:\Users\Cluser\Desktop\autodealer_project\autodealer_project\obj\Debug\autodealer_project.Add_edit_cashier.resources
+C:\Users\Cluser\Desktop\autodealer_project\autodealer_project\obj\Debug\autodealer_project.Add_edit_position_product.resources
+C:\Users\Cluser\Desktop\autodealer_project\autodealer_project\obj\Debug\autodealer_project.Add_edit_position_service.resources
+C:\Users\Cluser\Desktop\autodealer_project\autodealer_project\obj\Debug\autodealer_project.Add_edit_product.resources
+C:\Users\Cluser\Desktop\autodealer_project\autodealer_project\obj\Debug\autodealer_project.Add_edit_service.resources
+C:\Users\Cluser\Desktop\autodealer_project\autodealer_project\obj\Debug\autodealer_project.auto_form.resources
+C:\Users\Cluser\Desktop\autodealer_project\autodealer_project\obj\Debug\autodealer_project.auto_sale_form.resources
+C:\Users\Cluser\Desktop\autodealer_project\autodealer_project\obj\Debug\autodealer_project.cashier_form.resources
+C:\Users\Cluser\Desktop\autodealer_project\autodealer_project\obj\Debug\autodealer_project.main_form.resources
+C:\Users\Cluser\Desktop\autodealer_project\autodealer_project\obj\Debug\autodealer_project.products_form.resources
+C:\Users\Cluser\Desktop\autodealer_project\autodealer_project\obj\Debug\autodealer_project.product_sale_form.resources
+C:\Users\Cluser\Desktop\autodealer_project\autodealer_project\obj\Debug\autodealer_project.Properties.Resources.resources
+C:\Users\Cluser\Desktop\autodealer_project\autodealer_project\obj\Debug\autodealer_project.service_form.resources
+C:\Users\Cluser\Desktop\autodealer_project\autodealer_project\obj\Debug\autodealer_project.service_sale_form.resources
+C:\Users\Cluser\Desktop\autodealer_project\autodealer_project\obj\Debug\autodealer_project.csproj.GenerateResource.Cache
+C:\Users\khora\Desktop\autodealer_project\autodealer_project\bin\Debug\autodealer_project.exe.config
+C:\Users\khora\Desktop\autodealer_project\autodealer_project\obj\Debug\autodealer_project.exe
+C:\Users\khora\Desktop\autodealer_project\autodealer_project\obj\Debug\autodealer_project.pdb
+C:\Users\aokur\Desktop\autodealer_project\autodealer_project\bin\Debug\autodealer_project.exe.config
+C:\Users\aokur\Desktop\autodealer_project\autodealer_project\bin\Debug\autodealer_project.exe
+C:\Users\aokur\Desktop\autodealer_project\autodealer_project\bin\Debug\autodealer_project.pdb
+C:\Users\aokur\Desktop\autodealer_project\autodealer_project\obj\Debug\autodealer_project.csproj.AssemblyReference.cache
+C:\Users\aokur\Desktop\autodealer_project\autodealer_project\obj\Debug\autodealer_project.Add_edit_auto.resources
+C:\Users\aokur\Desktop\autodealer_project\autodealer_project\obj\Debug\autodealer_project.Add_edit_cashier.resources
+C:\Users\aokur\Desktop\autodealer_project\autodealer_project\obj\Debug\autodealer_project.Add_edit_position_product.resources
+C:\Users\aokur\Desktop\autodealer_project\autodealer_project\obj\Debug\autodealer_project.Add_edit_position_service.resources
+C:\Users\aokur\Desktop\autodealer_project\autodealer_project\obj\Debug\autodealer_project.Add_edit_product.resources
+C:\Users\aokur\Desktop\autodealer_project\autodealer_project\obj\Debug\autodealer_project.Add_edit_service.resources
+C:\Users\aokur\Desktop\autodealer_project\autodealer_project\obj\Debug\autodealer_project.auto_form.resources
+C:\Users\aokur\Desktop\autodealer_project\autodealer_project\obj\Debug\autodealer_project.auto_sale_form.resources
+C:\Users\aokur\Desktop\autodealer_project\autodealer_project\obj\Debug\autodealer_project.cashier_form.resources
+C:\Users\aokur\Desktop\autodealer_project\autodealer_project\obj\Debug\autodealer_project.main_form.resources
+C:\Users\aokur\Desktop\autodealer_project\autodealer_project\obj\Debug\autodealer_project.products_form.resources
+C:\Users\aokur\Desktop\autodealer_project\autodealer_project\obj\Debug\autodealer_project.product_sale_form.resources
+C:\Users\aokur\Desktop\autodealer_project\autodealer_project\obj\Debug\autodealer_project.Properties.Resources.resources
+C:\Users\aokur\Desktop\autodealer_project\autodealer_project\obj\Debug\autodealer_project.service_form.resources
+C:\Users\aokur\Desktop\autodealer_project\autodealer_project\obj\Debug\autodealer_project.service_sale_form.resources
+C:\Users\aokur\Desktop\autodealer_project\autodealer_project\obj\Debug\autodealer_project.csproj.GenerateResource.cache
+C:\Users\aokur\Desktop\autodealer_project\autodealer_project\obj\Debug\autodealer_project.csproj.CoreCompileInputs.cache
+C:\Users\aokur\Desktop\autodealer_project\autodealer_project\obj\Debug\autodealer_project.exe
+C:\Users\aokur\Desktop\autodealer_project\autodealer_project\obj\Debug\autodealer_project.pdb
+C:\Users\aokur\Desktop\autodealer_project\autodealer_project\bin\Debug\autodealer.mdf
+C:\Users\aokur\Desktop\autodealer_project\autodealer_project\bin\Debug\autodealer_log.ldf
+C:\Users\aokur\Source\Repos\Layawn\autodealer\autodealer_project\bin\Debug\autodealer.mdf
+C:\Users\aokur\Source\Repos\Layawn\autodealer\autodealer_project\bin\Debug\autodealer_log.ldf
+C:\Users\aokur\Source\Repos\Layawn\autodealer\autodealer_project\bin\Debug\autodealer_project.exe.config
+C:\Users\aokur\Source\Repos\Layawn\autodealer\autodealer_project\bin\Debug\autodealer_project.exe
+C:\Users\aokur\Source\Repos\Layawn\autodealer\autodealer_project\bin\Debug\autodealer_project.pdb
+C:\Users\aokur\Source\Repos\Layawn\autodealer\autodealer_project\obj\Debug\autodealer_project.csproj.AssemblyReference.cache
+C:\Users\aokur\Source\Repos\Layawn\autodealer\autodealer_project\obj\Debug\autodealer_project.Add_edit_auto.resources
+C:\Users\aokur\Source\Repos\Layawn\autodealer\autodealer_project\obj\Debug\autodealer_project.Add_edit_cashier.resources
+C:\Users\aokur\Source\Repos\Layawn\autodealer\autodealer_project\obj\Debug\autodealer_project.Add_edit_position_product.resources
+C:\Users\aokur\Source\Repos\Layawn\autodealer\autodealer_project\obj\Debug\autodealer_project.Add_edit_position_service.resources
+C:\Users\aokur\Source\Repos\Layawn\autodealer\autodealer_project\obj\Debug\autodealer_project.Add_edit_product.resources
+C:\Users\aokur\Source\Repos\Layawn\autodealer\autodealer_project\obj\Debug\autodealer_project.Add_edit_service.resources
+C:\Users\aokur\Source\Repos\Layawn\autodealer\autodealer_project\obj\Debug\autodealer_project.auto_form.resources
+C:\Users\aokur\Source\Repos\Layawn\autodealer\autodealer_project\obj\Debug\autodealer_project.auto_sale_form.resources
+C:\Users\aokur\Source\Repos\Layawn\autodealer\autodealer_project\obj\Debug\autodealer_project.cashier_form.resources
+C:\Users\aokur\Source\Repos\Layawn\autodealer\autodealer_project\obj\Debug\autodealer_project.main_form.resources
+C:\Users\aokur\Source\Repos\Layawn\autodealer\autodealer_project\obj\Debug\autodealer_project.products_form.resources
+C:\Users\aokur\Source\Repos\Layawn\autodealer\autodealer_project\obj\Debug\autodealer_project.product_sale_form.resources
+C:\Users\aokur\Source\Repos\Layawn\autodealer\autodealer_project\obj\Debug\autodealer_project.Properties.Resources.resources
+C:\Users\aokur\Source\Repos\Layawn\autodealer\autodealer_project\obj\Debug\autodealer_project.service_form.resources
+C:\Users\aokur\Source\Repos\Layawn\autodealer\autodealer_project\obj\Debug\autodealer_project.service_sale_form.resources
+C:\Users\aokur\Source\Repos\Layawn\autodealer\autodealer_project\obj\Debug\autodealer_project.csproj.GenerateResource.cache
+C:\Users\aokur\Source\Repos\Layawn\autodealer\autodealer_project\obj\Debug\autodealer_project.csproj.CoreCompileInputs.cache
+C:\Users\aokur\Source\Repos\Layawn\autodealer\autodealer_project\obj\Debug\autodealer_project.exe
+C:\Users\aokur\Source\Repos\Layawn\autodealer\autodealer_project\obj\Debug\autodealer_project.pdb
